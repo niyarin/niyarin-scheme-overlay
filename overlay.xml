@@ -7,6 +7,6 @@
     <owner type="project">
         <email>niyarium@gmail.com</email>
     </owner>
-    <source type="git">git:http://github.com/niyarin/niyarin-scheme-overlay.git</source>
+    <source type="git">http://github.com/niyarin/niyarin-scheme-overlay.git</source>
 </repo>
 </repositories>
