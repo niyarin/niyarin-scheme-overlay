@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="official">
+    <name>niyarin-scheme-overlay</name>
+    <description>Niyarin's scheme overlays</description>
+    <owner type="project">
+        <email>niyarium@gmail.com</email>
+    </owner>
+    <source type="git">git:https://github.com/niyarin/niyarin-scheme-overlay.git</source>
+</repo>
+</repositories>
