@@ -60,7 +60,7 @@ src_install() {
 	dodoc NEWS
 
 	# Let portage track this file (created later)
-	touch "${D}"/usr/$(get_libdir)/chicken/8/modules.db || die
+	touch "${D}"/usr/$(get_libdir)/chicken/11/modules.db || die
 }
 
 pkg_postinst() {
